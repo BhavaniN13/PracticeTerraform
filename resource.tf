@@ -1,5 +1,5 @@
 resource "azurerm_resource_group" "storeterra" {
-    name     = "Practice-terra"
+    name     = "terra"
     location = "East US"
 }
  
